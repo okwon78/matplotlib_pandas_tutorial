@@ -17,6 +17,8 @@ dependencies:
   - freetype=2.8=h12048fb_1
   - gettext=0.19.8.1=h15daf44_3
   - glib=2.56.1=h35bc53a_0
+  - h5py=2.8.0=py36ha8ecd60_0
+  - hdf5=1.10.2=hfa1e0ec_1
   - html5lib=1.0.1=py36h2f9c1c0_0
   - icu=58.2=h4b95b61_1
   - intel-openmp=2018.0.3=0
@@ -33,6 +35,7 @@ dependencies:
   - jupyter_client=5.2.3=py36_0
   - jupyter_console=5.2.0=py36hccf5b1c_1
   - jupyter_core=4.4.0=py36h79cf704_0
+  - keras=2.1.6=py36_0
   - kiwisolver=1.0.1=py36h792292d_0
   - libcxx=4.0.1=h579ed51_0
   - libcxxabi=4.0.1=hebd6815_0
@@ -42,6 +45,7 @@ dependencies:
   - libiconv=1.15=hdd342a3_7
   - libopenblas=0.2.20=hdc02c5d_7
   - libpng=1.6.34=he12f830_0
+  - libprotobuf=3.5.2=h2cd40f5_0
   - libsodium=1.0.16=h3efe00b_0
   - libtiff=4.0.9=hcb84e12_1
   - markupsafe=1.0=py36h3a1e703_1
@@ -52,7 +56,7 @@ dependencies:
   - nbformat=4.4.0=py36h827af21_0
   - ncurses=6.1=h0a44026_0
   - notebook=5.5.0=py36_0
-  - numpy=1.14.3=py36he6379a5_2
+  - numpy=1.12.1=py36h8871d66_1
   - numpy-base=1.14.3=py36h7ef55bc_1
   - olefile=0.45.1=py36_0
   - openssl=1.0.2o=h26aff7b_0
@@ -66,6 +70,7 @@ dependencies:
   - pillow=5.1.0=py36hfcce615_0
   - pip=10.0.1=py36_0
   - prompt_toolkit=1.0.15=py36haeda067_0
+  - protobuf=3.5.2=py36h0a44026_0
   - ptyprocess=0.5.2=py36he6521c3_0
   - pygments=2.2.0=py36h240cd3f_0
   - pyparsing=2.2.0=py36hb281f35_0
@@ -73,6 +78,7 @@ dependencies:
   - python=3.6.5=hc167b69_1
   - python-dateutil=2.7.3=py36_0
   - pytz=2018.4=py36_0
+  - pyyaml=3.12=py36h2ba1e63_1
   - pyzmq=17.0.0=py36h1de35cc_1
   - qt=5.9.5=h02808f3_0
   - qtconsole=4.3.1=py36hd96c0ff_0
@@ -86,6 +92,7 @@ dependencies:
   - six=1.11.0=py36h0e22d5e_1
   - sqlalchemy=1.2.8=py36h1de35cc_0
   - sqlite=3.23.1=hf1716c9_0
+  - tensorflow=1.1.0=np112py36_0
   - terminado=0.8.1=py36_1
   - testpath=0.3.1=py36h625a49b_0
   - tk=8.6.7=h35a86e2_3
@@ -97,6 +104,7 @@ dependencies:
   - wheel=0.31.1=py36_0
   - widgetsnbextension=3.2.1=py36_0
   - xz=5.2.4=h1de35cc_4
+  - yaml=0.1.7=hc338f04_2
   - zeromq=4.2.5=h378b8a2_0
   - zlib=1.2.11=hf3cbc9b_2
   - pip:
@@ -105,9 +113,7 @@ dependencies:
     - gast==0.2.0
     - grpcio==1.12.1
     - markdown==2.6.11
-    - protobuf==3.5.2.post1
     - tensorboard==1.8.0
-    - tensorflow==1.8.0
     - termcolor==1.1.0
 prefix: /Users/we/anaconda3/envs/jupyter
 
