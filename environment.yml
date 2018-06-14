@@ -69,7 +69,6 @@ dependencies:
   - olefile=0.45.1=py36_0
   - openssl=1.0.2o=h26aff7b_0
   - pandas=0.23.1=py36h1702cab_0
-  - pandas-datareader=0.6.0=py36_0
   - pandoc=1.19.2.1=ha5e8f32_1
   - pandocfilters=1.4.2=py36h3b0b094_1
   - parso=0.2.1=py36_0
@@ -130,6 +129,7 @@ dependencies:
     - gast==0.2.0
     - grpcio==1.12.1
     - markdown==2.6.11
+    - pandas-datareader==0.6.0+30.g3c17058
     - tensorboard==1.8.0
     - termcolor==1.1.0
 prefix: /Users/we/anaconda3/envs/jupyter
