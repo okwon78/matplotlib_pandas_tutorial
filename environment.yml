@@ -83,6 +83,7 @@ dependencies:
   - ptyprocess=0.5.2=py36he6521c3_0
   - pycparser=2.18=py36h724b2fc_1
   - pygments=2.2.0=py36h240cd3f_0
+  - pymongo=3.4.0=py36_0
   - pyopenssl=18.0.0=py36_0
   - pyparsing=2.2.0=py36hb281f35_0
   - pyqt=5.9.2=py36h11d3b92_0
@@ -130,6 +131,7 @@ dependencies:
     - gast==0.2.0
     - grpcio==1.12.1
     - markdown==2.6.11
+    - mongoengine==0.15.0
     - pandas-datareader==0.6.0+30.g3c17058
     - tensorboard==1.8.0
     - tensorflow==1.8.0
