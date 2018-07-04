@@ -132,7 +132,6 @@ dependencies:
     - grpcio==1.12.1
     - markdown==2.6.11
     - mongoengine==0.15.0
-    - pandas-datareader==0.6.0+30.g3c17058
     - tensorboard==1.8.0
     - tensorflow==1.8.0
     - termcolor==1.1.0
