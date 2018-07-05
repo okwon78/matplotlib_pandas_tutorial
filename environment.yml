@@ -128,12 +128,15 @@ dependencies:
   - pip:
     - absl-py==0.2.2
     - astor==0.6.2
+    - dateparser==0.7.0
     - gast==0.2.0
     - grpcio==1.12.1
     - markdown==2.6.11
     - mongoengine==0.15.0
+    - regex==2018.6.21
     - tensorboard==1.8.0
     - tensorflow==1.8.0
     - termcolor==1.1.0
-prefix: /Users/we/anaconda3/envs/jupyter
+    - tzlocal==1.5.1
+prefix: /Users/kwon/anaconda3/envs/jupyter
 
