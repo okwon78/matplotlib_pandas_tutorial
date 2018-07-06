@@ -1,4 +1,6 @@
 # python tutorial
+파이썬을 이용한 데이터 분석을 위한 튜토리얼 정리
+
 ## 1. python
 ## 2. numpy
 ## 3. matplotlib
