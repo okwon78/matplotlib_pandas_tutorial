@@ -1,0 +1,38 @@
+[I 08:55:03.820 NotebookApp] Serving notebooks from local directory: /Users/kwon/Dev/python_tutorial
+[I 08:55:03.820 NotebookApp] The Jupyter Notebook is running at:
+[I 08:55:03.820 NotebookApp] http://localhost:8888/?token=69ad61a311ca835883da84c0620d894beb74d783aa7bbc84
+[I 08:55:03.820 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 08:55:03.822 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=69ad61a311ca835883da84c0620d894beb74d783aa7bbc84
+[I 08:55:04.023 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 08:55:32.775 NotebookApp] Kernel started: fc1aad8f-f21a-4292-bd2d-9961c7758818
+[I 08:55:32.784 NotebookApp] 302 GET /notebooks/img/huberloss.svg (::1) 1.37ms
+[I 08:55:32.786 NotebookApp] 302 GET /notebooks/img/matrix_mult_w_one_hot.png (::1) 1.31ms
+[I 08:55:33.350 NotebookApp] Adapting to protocol v5.1 for kernel fc1aad8f-f21a-4292-bd2d-9961c7758818
+[I 09:21:14.386 NotebookApp] Saving file at /tensorflow.ipynb
+[I 09:46:11.654 NotebookApp] 302 GET /notebooks/img/huberloss.svg (::1) 1.14ms
+[I 09:46:11.661 NotebookApp] 302 GET /notebooks/img/matrix_mult_w_one_hot.png (::1) 0.91ms
+[I 09:46:11.851 NotebookApp] Adapting to protocol v5.1 for kernel fc1aad8f-f21a-4292-bd2d-9961c7758818
+[I 16:50:26.226 NotebookApp] Saving file at /tensorflow.ipynb
+[I 16:52:26.806 NotebookApp] Saving file at /tensorflow.ipynb
+[I 16:54:26.209 NotebookApp] Saving file at /tensorflow.ipynb
+[I 16:56:26.796 NotebookApp] Saving file at /tensorflow.ipynb
+[I 16:58:26.229 NotebookApp] Saving file at /tensorflow.ipynb
+[I 17:00:26.897 NotebookApp] Saving file at /tensorflow.ipynb
+[I 17:02:26.254 NotebookApp] Saving file at /tensorflow.ipynb
+[I 17:04:26.230 NotebookApp] Saving file at /tensorflow.ipynb
+[I 17:06:26.228 NotebookApp] Saving file at /tensorflow.ipynb
+[I 17:08:26.248 NotebookApp] Saving file at /tensorflow.ipynb
+[I 17:10:26.247 NotebookApp] Saving file at /tensorflow.ipynb
+[I 17:12:26.244 NotebookApp] Saving file at /tensorflow.ipynb
+[I 17:14:26.271 NotebookApp] Saving file at /tensorflow.ipynb
+[I 17:16:26.258 NotebookApp] Saving file at /tensorflow.ipynb
+[I 17:18:26.243 NotebookApp] Saving file at /tensorflow.ipynb
+[I 17:20:26.239 NotebookApp] Saving file at /tensorflow.ipynb
+[I 17:22:13.914 NotebookApp] Saving file at /tensorflow.ipynb
+[I 17:22:26.215 NotebookApp] Saving file at /tensorflow.ipynb
+[I 17:34:26.283 NotebookApp] Saving file at /tensorflow.ipynb
+[I 17:36:26.224 NotebookApp] Saving file at /tensorflow.ipynb
