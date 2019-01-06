@@ -2,5 +2,6 @@ events.out.tfevents.*
 /.ipynb_checkpoints
 /log
 /data
+/img
 *.npz
 *.npy
